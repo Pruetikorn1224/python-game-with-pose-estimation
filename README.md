@@ -12,7 +12,16 @@ It is not necessary to install virtual environment; however, it is better to run
 # Install virtual environment
 pip install virtualenv
 ```
-Download this respository and build virtual environment
+Download this repository and build virtual environment
 ```bash
-git clone 
+# Download git repository
+git clone https://github.com/Pruetikorn1224/python-game-with-pose-estimation.git <file_name>
+cd <file_name>
+
+# Build virtual environment
+python -m venv <environment_name>
+source <environment_name>/bin/activate
+
+# Install libraries
+pip install requirements.txt
 ```
