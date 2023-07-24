@@ -37,6 +37,10 @@ In camera view, it accesses through webcamera to detect body. There are 2 horizo
 
 As the time passes, there will be poles of lava \[ obstacle \] coming from both sides. User have to move player up and down to avoid hitting obstacle. The program will detect vertical position of user's shoulders. If user moves shoulder above upper red line, player will move up 1 block. On the other hands, players will go down 1 block when user moves below lower line.
 
+
+https://github.com/Pruetikorn1224/python-game-with-pose-estimation/assets/60211633/503a5b02-480f-49ee-9f9d-fd34be9e4c54
+
+
 Moreover, there will be red spheres \[ enemy \] coming from both sides and player has to avoid them too. They will be destroyed by weapons. User can control weapons by using arm. The program detects angles from the shoulders to the wrists.
 
 User can change the speed of enemys and obstacles by pressing number *1 - 5* to determine level. The speed will be faster as the level is higher.
