@@ -40,8 +40,8 @@ https://github.com/Pruetikorn1224/python-game-with-pose-estimation/assets/602116
 
 
 Moreover, there will be red spheres \[ enemy \] coming from both sides and player has to avoid them too. They will be destroyed by weapons. User can control weapons by using arm. The program detects angles from the shoulders to the wrists.
-<img width="853" alt="example_1" src="https://github.com/Pruetikorn1224/python-game-with-pose-estimation/assets/60211633/ccda6140-edba-483b-b8d5-c9ee59fa4e11">
-<img width="1075" alt="example_2" src="https://github.com/Pruetikorn1224/python-game-with-pose-estimation/assets/60211633/055dbfef-85c6-4595-b4f9-372232b74a3e">
+<img width="425" alt="example_1" src="https://github.com/Pruetikorn1224/python-game-with-pose-estimation/assets/60211633/f6c13e11-d437-4477-ae15-91fbc13bd8d0"><img width="425" alt="example_2" src="https://github.com/Pruetikorn1224/python-game-with-pose-estimation/assets/60211633/f306d915-08a1-4f02-969b-4acf4fdced65">
+
 
 User can change the speed of enemys and obstacles by pressing number *1 - 5* to determine level. The speed will be faster as the level is higher.
 
